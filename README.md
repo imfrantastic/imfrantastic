@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imfrantastic
 - 👀 I’m interested in Observational Astrophysics
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
 - 📫 How to reach me - gearfm@mail.uc.edu
 
 <!---
